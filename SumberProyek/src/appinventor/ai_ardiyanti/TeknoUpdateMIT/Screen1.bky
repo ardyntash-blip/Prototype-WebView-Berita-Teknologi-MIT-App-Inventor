@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="event_home_click" x="40" y="40">
+    <mutation component_type="Button" is_generic="false" instance_name="BtnHome" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">BtnHome</field>
+    <statement name="DO">
+      <block type="component_method" id="method_go_home">
+        <mutation component_type="WebViewer" method_name="GoHome" is_generic="false" instance_name="WebViewerNews"></mutation>
+        <field name="COMPONENT_SELECTOR">WebViewerNews</field>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="event_reload_click" x="390" y="40">
+    <mutation component_type="Button" is_generic="false" instance_name="BtnReload" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">BtnReload</field>
+    <statement name="DO">
+      <block type="component_method" id="method_reload">
+        <mutation component_type="WebViewer" method_name="Reload" is_generic="false" instance_name="WebViewerNews"></mutation>
+        <field name="COMPONENT_SELECTOR">WebViewerNews</field>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="233" language-version="36"></yacodeblocks>
+</xml>
