@@ -53,3 +53,6 @@ TUGAS 2 - PROTOTYPE WEBVIEW MIT APP INVENTOR/
 > Berkas APK belum disertakan. APK perlu dibuat dari menu **Build** setelah proyek diimpor ke MIT App Inventor.
 
 Aplikasi memerlukan koneksi internet untuk memuat situs berita.
+
+## W PHONE
+<img width="739" height="1600" alt="2 F" src="https://github.com/user-attachments/assets/f1b69376-a673-40fa-b1ca-6245577badc3" />
